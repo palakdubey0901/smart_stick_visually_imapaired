@@ -42,6 +42,6 @@ Watch Demo Video Here  - https://drive.google.com/file/d/1XE2NNJuKlElZn5hTZc_MKG
 
 Smart-Stick/
 │── Arduino_Code/
-│── Circuit_Diagram/
-│── Images/
-│── README.md
+│── Image.jpeg/
+│── README.md/
+│── circuit.jpg.jpeg
