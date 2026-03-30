@@ -27,7 +27,7 @@ The ultrasonic sensor continuously measures the distance between the stick and n
 When an obstacle comes within a predefined range, the buzzer starts beeping to alert the user.
 
 📸 Demo
-
+Watch Demo Video Here  - https://drive.google.com/file/d/1YYzYMEgCYmnoNyZvAdeCZy7IDWBblOxD/view?usp=drivesdk
 
 🔮 Future Scope
 
